@@ -2,5 +2,5 @@
 ## Gathering the Data 
 ## Purpose of Data
 ## Potential Uses of Data
-## Vizualization
+## Visualization
 ## Getting Started with the Data
