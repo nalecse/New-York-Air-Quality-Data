@@ -18,7 +18,6 @@ This repository and subset were created to study two specific areas, Manhattan a
 ### Visualization
 * The two visualizations were created using [Flourish](https://flourish.studio/), which requires signing up for a free account
 * The original subset was filtered slightly more in Excel to isolate the individual particles for examination; this can also be done in Flourish, but it is easier to delete large amounts of rows in Excel
-* 
 ![AltText](https://github.com/nalecse/New-York-Air-Quality-Repo/blob/main/Visualization/QMPM2.5.png?raw=true)
 ![AltText](https://github.com/nalecse/New-York-Air-Quality-Repo/blob/main/Visualization/QMNO2.png?raw=true)
 
