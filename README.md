@@ -23,4 +23,4 @@ This repository and subset were created to study two specific areas, Manhattan a
 ![AltText](https://github.com/nalecse/New-York-Air-Quality-Repo/blob/main/Visualization/QMNO2.png?raw=true)
 
 ### Getting Started 
-To begin crafting your subset, navigate to the Data folder and click on the .ipynb file.
+To begin crafting your subset, click on the .ipynb file.
