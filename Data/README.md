@@ -1,2 +1,2 @@
 ## Data Folder
-This folder includes two types of items: the two datasets as CSV files and a Python notebook with steps for creating the subset.
+This folder includes the original dataset as well as the subset that was used for the visualizations.
