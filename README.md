@@ -1,10 +1,11 @@
 # New York Air Quality 
 #### This repository was created for my English 105 class.
 ### Contents
-This repository contains :
+This repository contains:
 * 1 Python notebook with steps to create the primary data subset
+* 2 Folders with files related to the folder's title
 * 2 PNG files that consist of the visuals used
-* 4 CSV files that consist of the original, the main subset, and two smaller ones created during visualization.
+* 4 CSV files that consist of the original, the main subset, and two smaller ones created during visualization
 ### Source of Data
 This repository uses public data from New York City, with those files hosted by [Data.Gov.](https://catalog.data.gov/dataset/air-quality)  
 ### Purpose of Data
