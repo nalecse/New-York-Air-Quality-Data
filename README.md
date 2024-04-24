@@ -18,7 +18,8 @@ This repository and subset were created to study two specific areas, Manhattan a
 * The two visualizations were created using [Flourish](https://flourish.studio/), which requires signing up for a free account
 * The original subset was filtered slightly more in Excel to isolate the individual particles for examination; this can also be done in Flourish, but it is easier to delete large amounts of rows in Excel
 
-!(Visualization../QMPM2.5.png)
-!(Visualization/QMNO2.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/nalecse/New-York-Air-Quality-Repo/blob/main/Visualization/QMPM2.5.png?raw=true)
+![alt text](https://github.com/nalecse/New-York-Air-Quality-Repo/blob/main/Visualization/QMNO2.pn?raw=true)
 ### Getting Started 
 To begin crafting your subset, navigate to the Data folder and click on the .ipynb file.
